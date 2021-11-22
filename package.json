@@ -1,0 +1,17 @@
+{
+  "name": "web_and_api_challenges",
+  "version": "1.0.0",
+  "description": "Web and API testing Challenges",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run --spec cypress/integration/testing_challenges.spec.js"
+  },
+  "keywords": [],
+  "author": "Nilton Dias",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.0.0",
+    "faker": "^5.5.3"
+  }
+}

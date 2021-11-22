@@ -1,0 +1,17 @@
+[
+    {
+        "id": "199922051X",
+        "name": "Agile Testing",
+        "price": 19.99
+    },
+    {
+        "id": "0321336380",
+        "name": "continuous integration",
+        "price": 50.49
+    },
+    {
+        "id": "0321967054",
+        "name": "More Agile Testing",
+        "price": 45.30
+    }
+]
